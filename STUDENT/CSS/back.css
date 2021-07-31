@@ -1,0 +1,18 @@
+ body
+	   {
+	   background-image:url("4.jpg");
+	   background-size:1500px 800px;
+	   font-family:arial;
+	   }
+	   table.ima
+	   {
+		   background-image:url("m.jpg");
+		   background-size:500px 580px;
+		   border-color:darkblue;
+	   }
+	   h1
+	   {
+		   color:white;
+		   font-family:Monotype Corsiva;
+		   font-size:40px;
+	   }
